@@ -34,6 +34,7 @@ public class CoustmerServiceImpl implements CoustemerService{
 	@Override
 	public void getCoustmer(int cId) {
 		// TODO Auto-generated method stub
+		 System.out.println(" okk");
 		
 	}
 
