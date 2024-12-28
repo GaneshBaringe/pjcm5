@@ -22,6 +22,7 @@ public class CoustmerServiceImpl implements CoustemerService{
 	@Override
 	public void deleteCoustmer(int cId) {
 		coustmerrepository.deleteById(cId);
+		 System.out.println("  task Branch");
 		
 		
 	}
