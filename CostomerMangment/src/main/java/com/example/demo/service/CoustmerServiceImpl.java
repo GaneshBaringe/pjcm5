@@ -15,7 +15,7 @@ public class CoustmerServiceImpl implements CoustemerService{
 	public void createCoustmer(Coustmer c) {
 		coustmerrepository.save(c);
 		
-		
+		System.out.println("   Testing ");
 	}
 
 	@Override

@@ -39,6 +39,8 @@ public class CustomerController {
 		customer.getCoustmer(uId);
 		return (Coustmer) customer;
 		
+		
+		
 	}
 	
 }
